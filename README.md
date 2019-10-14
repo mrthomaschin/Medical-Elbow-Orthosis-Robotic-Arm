@@ -1,6 +1,6 @@
 # Medical Elbow Orthosis: Robotic Arm
 
-I had the privilege to Re-designed a robotic arm for a five-year old with Acute Flaccid Myelitis, which is a disease that attacks motor cells in the spinal area, specifically nerves. This five-year old, named Max, goes to my church and was born with this disease.
+I had the privilege to re-design a robotic arm for a five-year old with Acute Flaccid Myelitis, which is a disease that attacks motor cells in the spinal area, specifically nerves. This five-year old, named Max, goes to my church and was born with this disease.
 
 This project was a continuation of a final project for UC San Diego’s MAE 156B class. It utilized a single Arduino Uno and two motors to lift Max's arms up and down. Flex cable sensors were connect to makeshift gloves that allow max to control the machine's movements through his wrist movement.
 
